@@ -7,3 +7,7 @@
 Guest lecture for Dr. Ron Walcott.
 
  - Tuesday, October 15: GRSC 8550 Responsible Conduct of Research
+
+Guest lecture for Dr. Lynne Seymour.
+
+ - Monday, October 28: STAT 8920 Statistical Research and Professional Practice I
